@@ -979,9 +979,6 @@
   .fill-\[\#FAFAFA\] {
     fill: #FAFAFA;
   }
-  .fill-gray-500 {
-    fill: var(--color-gray-500);
-  }
   .fill-white {
     fill: var(--color-white);
   }
