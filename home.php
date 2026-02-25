@@ -6,7 +6,7 @@
                     <img src="./image/notification-02.png" alt="notification-02">
                 </div>
                 <button class="bg-blue-600 px-4 py-2 text-white rounded-2xl hover:bg-blue-700 transition-colors">
-                    <a href="register.php">Sign in</a>
+                    <a href="index.php">Sign in</a>
                 </button>
             </div>
         </header>
