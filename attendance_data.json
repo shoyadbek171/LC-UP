@@ -1,0 +1,31 @@
+[
+    {
+        "id": "69a417ca8a0b3",
+        "date": "2026-03-01",
+        "group": "test",
+        "students": [
+            {
+                "name": "ibrohim",
+                "status": "present"
+            },
+            {
+                "name": "ibrohim",
+                "status": "absent"
+            },
+            {
+                "name": "ibrohim",
+                "status": "absent"
+            },
+            {
+                "name": "ibrohim",
+                "status": "present"
+            },
+            {
+                "name": "ibrohim",
+                "status": "absent"
+            }
+        ],
+        "teacher": "Admin",
+        "timestamp": 1772361674
+    }
+]

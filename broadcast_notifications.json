@@ -1,0 +1,26 @@
+[
+    {
+        "id": "69a40033bc6e3",
+        "message": "asalomu alekum ibrohiim aka",
+        "from": "Admin",
+        "time": "01.03.2026 09:00:35",
+        "timestamp": 1772355635,
+        "type": "broadcast"
+    },
+    {
+        "id": "69a59abf0815d",
+        "message": "onam",
+        "from": "Admin",
+        "time": "02.03.2026 14:12:15",
+        "timestamp": 1772460735,
+        "type": "broadcast"
+    },
+    {
+        "id": "69a6ad7b1b1e4",
+        "message": "ahmadillo",
+        "from": "Admin",
+        "time": "03.03.2026 09:44:27",
+        "timestamp": 1772531067,
+        "type": "broadcast"
+    }
+]

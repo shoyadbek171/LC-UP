@@ -1,0 +1,26 @@
+[
+    {
+        "id": "69a583a45c755",
+        "group": "test",
+        "day": "Dushanba",
+        "time_start": "10:00",
+        "time_end": "13:00",
+        "room": "t4",
+        "subject": "math",
+        "color": "#3B82F6",
+        "created_by": "Admin",
+        "timestamp": 1772454820
+    },
+    {
+        "id": "69a59924c727a",
+        "group": "test",
+        "day": "Seshanba",
+        "time_start": "10:00",
+        "time_end": "15:00",
+        "room": "t4",
+        "subject": "k",
+        "color": "#EC4899",
+        "created_by": "Admin",
+        "timestamp": 1772460324
+    }
+]

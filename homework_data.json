@@ -1,0 +1,15 @@
+[
+    {
+        "id": "69a6cd3068428",
+        "title": "w",
+        "description": "w",
+        "group": "test",
+        "subject": "math",
+        "deadline": "2026-01-05",
+        "priority": "high",
+        "status": "completed",
+        "teacher": "Admin",
+        "date": "03.03.2026 11:59",
+        "timestamp": 1772539184
+    }
+]

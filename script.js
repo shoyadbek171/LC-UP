@@ -35,6 +35,18 @@ const emp = document.getElementById('Emp');
 const empB = document.getElementById('EmpBack');
 const bE = document.getElementById('empB');
 const bob = document.getElementById('bob')
+const faceId3 = document.getElementById('faceId3');
+const faceIdL = document.getElementsByClassName('face-idL')
+// faceIdL[0].addEventListener('click', () => {
+//     faceId3.classList.remove('hidden')
+// });
+function deleteNotification(index) {
+    // Bu yerda delete_notification.php ga so'rov yuboriladi
+    fetch('delete_notification.php', {
+        method: 'POST',
+        body: JSON.stringify({ index: index })
+    })
+}
 if(bob){
     bob.addEventListener('click', () => {
         if(emp) emp.classList.add('hidden');
